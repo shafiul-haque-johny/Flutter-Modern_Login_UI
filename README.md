@@ -1,16 +1,7 @@
 # login_ui_auth
 
-"A new Flutter project."
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/shafiul-haque-johny/Flutter-Modern_Login_UI/assets/71293557/1873390e-de7e-45f0-a10b-6c6e083fc582
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
